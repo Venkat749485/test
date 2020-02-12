@@ -1,3 +1,5 @@
 [user]
 	name = venkat
 	email = venkata.irukulapati@gmail.com
+[core]
+	editor = notepad
